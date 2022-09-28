@@ -1,3 +1,3 @@
 # Rock-Paper-Scissors
 
-Machine Learning Project : Membuat prediksi apakah tangan membuat bentuk gunting, kertasa atau batu
+Machine Learning Project : Make predictions whether the hand makes the shape of scissors, paper or rock
